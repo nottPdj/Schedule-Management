@@ -1,0 +1,4 @@
+/home/pedro/Desktop/AED/schedule/cmake-build-debug/CMakeFiles/projeto.dir
+/home/pedro/Desktop/AED/schedule/cmake-build-debug/CMakeFiles/Doxygen.dir
+/home/pedro/Desktop/AED/schedule/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/pedro/Desktop/AED/schedule/cmake-build-debug/CMakeFiles/rebuild_cache.dir
